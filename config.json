@@ -8,7 +8,7 @@
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": true,
+      "maps": false,
       "texture": false,
       "skin": true,
       "more": false,
@@ -45,28 +45,12 @@
   ],
   "Map": [
     {
-        "name": "The BackBlocks 1.1 Fun Update! =) (Minecraft The Backrooms)",
-        "role": "Are you a fan of the backrooms fandom? and have you ever wanted a Minecraft map that actually FEELS like The Backrooms? instead of just some maze created by someone? (sorta) well this map aims to try and create the backrooms into Minecraft!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/1.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/TheBackBlocks.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/1.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/1.jpeg"
-    },
-    {
-        "name": "The Backrooms",
-        "role": "If you are not careful and you noclip out of reality in the wrong areas you will end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/thebackrooms.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/3.png"
-    },
-    {
-        "name": "The Backrooms",
-        "role": "I created this map back in 2019, I'm deciding to share this to the world. It's a pretty big map of The Backrooms, infinite hallways with flickering lights.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/The Back Rooms.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/2.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Texture": [
